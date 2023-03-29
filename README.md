@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robin
 - 👀 I’m interested in pretty much everything when it comes to programming, I've dabbled with most OOP languages and tend to spend my time with those, but honestly I just like learning new things a lot.
-- 🌱 I’m currently learning returning to Python since I have not used it in roughly a year and want to brush up on it.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me: Email me at robjgraham1996@gmail.com
 
 ## List of the things I like using:
